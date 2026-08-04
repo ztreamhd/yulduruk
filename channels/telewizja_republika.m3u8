@@ -1,15 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:3
-# Channel: Telewizja Republika
-# ID: UCc282c_TN8xIba_Z6GaDnQw
-# Quality: 1080p
-# Country: UK
-# Status: LIVE (as of 18:03 UTC)
-# Generated: 2026-08-04 18:03:07 UTC
-# URL expires: ~23:03 UTC (refresh playlist if expired)
-
 #EXTINF:-1 tvg-id="UCc282c_TN8xIba_Z6GaDnQw" tvg-logo="logos/UCc282c_TN8xIba_Z6GaDnQw.jpg" tvg-name="Telewizja Republika" group-title="Individual",Telewizja Republika [1080p] 🔴 LIVE
 #EXTVLCOPT:http-origin=https://www.youtube.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 OPR/133.0.0.0
 #EXTVLCOPT:http-reconnect=true
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785888148/ei/NClyasOINqaosfIP9a7GoAI/ip/2a09:bac5:cbb9:119::1c:263/id/dzntyCTgJMQ.41/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-2onx5c-54.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhNtbNiRzYEOVCHN_SZgSkUX-6v4zhFmBPwrH1xQGGqACvtenuNu0NnBiNyF6-kbyTBp-hYuTxtv/spc/KBGBcl3E8sQocEhp_Zzdlojuh2B6xgx5pBeX7RNlzRS0vmMqkqW0SgpkecEa6c8D/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2757500/met/1785866549,/mh/Z5/mm/44/mn/sn-2onx5c-54/ms/lva/mv/m/mvi/5/pl/40/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1785865966/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgQ53HKjS4_HJMZ7KR8QomA6PHcvxxDt-MKReQ6yfw-dACIAjbnh__J557Iks8FY1sC-y5N39r8I376OhGfDv6rarA/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAPhJrEKLcw5Epzbb6gIr3W3-4ZrqRJN_2w4rGkhb-L-BAiAow6hki1QYGyWCdHG1NNFwjsz_IAoBO3mM8RLCas4mPw%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785892178/ei/8jhyatXrJrKVt7EPwPrDqAs/ip/2a09:bac5:6214:1250::1d3:46/id/dzntyCTgJMQ.41/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-2on4v5-5j.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhO1qKbJLQkkor8Va28kCL9nB8U75_V_Nx_-PBscEQVxNCZViWXTX1_3DZA0ZggawIatsceCpnpO/spc/KBGBcnLsS-IGdAEYm5MurtG4aHXmkTFhvdMb8_PFFJybyIegAQyjfNfY7ph-Us9P/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3222500/met/1785870579,/mh/Z5/mm/44/mn/sn-2on4v5-5j/ms/lva/mv/m/mvi/1/pl/44/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1785870278/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAPCGrInfkS5O2KhGELwMiG3lAGeRXn0kaskRE2h5iT6lAiEAtYTzygo0f97_1o0AWezGaitLsWwxb6YEDCoqS1h5JMs%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAM1h6__aE5fx6R_eFkl0aXjwclyGqJxO0HEelEaDYHwMAiEAmPFLkHfJaoiEzBvAy1aWXVjccbqe68_tEXt9yFUBAAA%3D/playlist/index.m3u8

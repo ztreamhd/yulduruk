@@ -1,15 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:3
-# Channel: RTVE Noticias
-# ID: UC7QZIf0dta-XPXsp9Hv4dTw
-# Quality: 1080p
-# Country: UK
-# Status: LIVE (as of 18:03 UTC)
-# Generated: 2026-08-04 18:03:07 UTC
-# URL expires: ~23:03 UTC (refresh playlist if expired)
-
 #EXTINF:-1 tvg-id="UC7QZIf0dta-XPXsp9Hv4dTw" tvg-logo="logos/UC7QZIf0dta-XPXsp9Hv4dTw.jpg" tvg-name="RTVE Noticias" group-title="Individual",RTVE Noticias [1080p] 🔴 LIVE
 #EXTVLCOPT:http-origin=https://www.youtube.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 OPR/133.0.0.0
 #EXTVLCOPT:http-reconnect=true
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785888136/ei/KClyau2PEuiVt7EP-NO-yAg/ip/2a09:bac5:cbb9:119::1c:263/id/b4tE5aKhtlg.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-nx57ynsy.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhPmo2sgRim0bbuCFd5B_n0s92ehwsBRVhBuWS3ym4lhs9YsTrka4irYOYV6HuPTQVSHp__9UYOW/spc/KBGBclrVwCYNvQftbth-30Ds9am4GQE3sTnRJAOpDnxHZhCobtIRF4EOspEy_CM0/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2757500/met/1785866536,/mh/92/mm/44/mn/sn-nx57ynsy/ms/lva/mv/m/mvi/1/pl/40/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1785865966/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgLVhq9HekJ8tI9zUiKa3R9zaZhfYUPd5C1tObPbpL_QoCICVix0CgghV1MwoE6JOtVFJR0g_8MgofgByn0TarMRUF/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgS-jqHsQW3EVdA51LS6yv_nPTmQ8B3XhxRhdtdoGdIHQCIQDNy_0Baoq4J0ScwigHZjVNOGDZeDh1gcxV9SlwPxSkrw%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785892166/ei/5jhyaqW5LZPOsfIP_7P32A8/ip/2a09:bac5:6214:1250::1d3:46/id/b4tE5aKhtlg.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-2on4v5-5j.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhP-sjavxTeBOe5RuMhFaQVwwSUHAlKuL4C0tmwQe_Wcr9w7QnXBUrHY1Ayw0hdM3TvWXzxOMuQN/spc/KBGBcvQRtUwOQLPchocMLKGxG_lFvUWfH8452v9DP9Sb50ea6n71fkMkGgkpU66d/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2908750/met/1785870567,/mh/92/mm/44/mn/sn-2on4v5-5j/ms/lva/mv/m/mvi/7/pl/44/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1785870041/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgVZaHd7iIr6hoWdzbCmvXZpmYOutRicWHXLLJXitx5r8CIQCi4qWb-zqeXqs-ftPr9zcLYxsnnUJgr8xjmz3HDfxNLQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAJ-brFhq0rk_mEPT1XHOzgEAjHbgrOfsWbsPywEcoYldAiAeDmAddt3boKM9moKGqt9Em4KpvTy4gFPgpulpt3oKpw%3D%3D/playlist/index.m3u8

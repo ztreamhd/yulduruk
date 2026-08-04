@@ -1,15 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:3
-# Channel: TelevisionCanaria
-# ID: UCTQrUTmzCWIfG6h4EVCdOCQ
-# Quality: 1080p
-# Country: UK
-# Status: LIVE (as of 18:03 UTC)
-# Generated: 2026-08-04 18:03:07 UTC
-# URL expires: ~23:03 UTC (refresh playlist if expired)
-
 #EXTINF:-1 tvg-id="UCTQrUTmzCWIfG6h4EVCdOCQ" tvg-logo="logos/UCTQrUTmzCWIfG6h4EVCdOCQ.jpg" tvg-name="TelevisionCanaria" group-title="Individual",TelevisionCanaria [1080p] 🔴 LIVE
 #EXTVLCOPT:http-origin=https://www.youtube.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 OPR/133.0.0.0
 #EXTVLCOPT:http-reconnect=true
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785888131/ei/IylyaqTwBdmEt7EP2N3KuQs/ip/2a09:bac5:cbb9:119::1c:263/id/DByMAYdYEmc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-nx57ynsk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhMfWuAAeMS4Mf16S3ulE_AtOxuy_eoSDRQBc6O3SyVVgR_SX9NnG-elkl925sLT4lZe_az2gYnZ/spc/KBGBcqXsDOqw-v7htUr7MBzhYEo5WHi65iVYsX-8yHe0e5S54vLw4_AqPzcDgL9W/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2757500/met/1785866531,/mh/IM/mm/44/mn/sn-nx57ynsk/ms/lva/mv/m/mvi/3/pl/40/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1785865966/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgHwHE6Ysgoy9HiXAiKtiSCNlAK2NRhe9veIx1r4_zuPYCIBIvF7lknqYH6dLKffHQRyY-Q973HX0m3lVqPGdWWfCd/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAL9ZQpGTSPne9B3pXKBby2SAglFMkIvqazUlS_DujW-YAiEAydTALEpp8Tq3oVG3YfbB8E5j5PL_Il_41iyqUxN3AcE%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785892160/ei/4DhyatuHAe2UsfIP2cmh8As/ip/2a09:bac5:6214:1250::1d3:46/id/DByMAYdYEmc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr20---sn-2on4v5-5j.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhNoUnl4dZm_4qrbwF0cLl-_tPSVxRJOQlYDcMn1XUEJmkH53mNW9IrxEuMgpzUpd0b8IpqoUedG/spc/KBGBcjxUso9xyQETj_Fots1BAexKt_kJwnlxjQtSxrlyz-fFt6SlzTluHl6OauR-/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2908750/met/1785870560,/mh/IM/mm/44/mn/sn-2on4v5-5j/ms/lva/mv/m/mvi/20/pl/44/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1785870041/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgL9mlhYrHgkVxn8DvAJjsGm4T4xlsU9ssJLD8WWNss-8CIHVlP5HVpTZY2KCDzNH_8HIJ5-krT5Zyf-P4WUtyW-7B/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgeu_AWqp8eo9TnKnVpmfWOUPKvX7U3PFo-vXh2zg4vAQCIDJ0YLkP4_pGvqyYo3Ev24rNPZef7J9OkmcoJmBZJEMw/playlist/index.m3u8

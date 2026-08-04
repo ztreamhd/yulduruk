@@ -1,15 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:3
-# Channel: Телеканал ICTV
-# ID: UCa85JIfBxZgcrsd8Ar7Z9nw
-# Quality: 1080p
-# Country: UK
-# Status: LIVE (as of 18:03 UTC)
-# Generated: 2026-08-04 18:03:07 UTC
-# URL expires: ~23:03 UTC (refresh playlist if expired)
-
 #EXTINF:-1 tvg-id="UCa85JIfBxZgcrsd8Ar7Z9nw" tvg-logo="logos/UCa85JIfBxZgcrsd8Ar7Z9nw.jpg" tvg-name="Телеканал ICTV" group-title="Individual",Телеканал ICTV [1080p] 🔴 LIVE
 #EXTVLCOPT:http-origin=https://www.youtube.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 OPR/133.0.0.0
 #EXTVLCOPT:http-reconnect=true
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785888105/ei/CSlyauPHLJT3sfIP1I_rgAY/ip/2a09:bac5:cbb9:119::1c:263/id/7KK_x1fZUEU.409/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-2onx5c-5b.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhMamK1fBAx_Es4ZNgzQ4bay4Ylw2_Fs9J5qFg0RVf9bEMcQMwlYzhymZjYGWGkUFffCzBJEXR2H/spc/KBGBco_dG6ajp9ePeAI1zMRKnr2JoIbQrjHLUn5Tkg5-wapibxeFJQBea8yR3ZMi/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2927500/met/1785866506,/mh/9v/mm/44/mn/sn-2onx5c-5b/ms/lva/mv/m/mvi/1/pl/40/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1785866436/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgChaiLXVXW6RuR7lUP0R60o3waLDVvLD1Xwfhq3waygYCIDczyHrUcUrkC9cbswUvxCPt-4nJVw2mP8bkobXjZRCI/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAL7gkMoVqAv6GvdBkOXaEAvvrgFKzkm6avQNbC9rQ1IyAiAGUYV38ZPW4a8z-QbrtsfiE2jA1sQLXtZ5DxTdNUSdTw%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785892133/ei/xThyapPWFPGZsfIPgqXB6AM/ip/2a09:bac5:6214:1250::1d3:46/id/7KK_x1fZUEU.409/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-2on4v5-5j.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhNEouFiQ2fZpeJMZfi876jG6YhJl_nzVxWB_gMxeUT_Gg-9hE8nv3DHAshRjPR0KPh8MheDnkxQ/spc/KBGBci169-Oyb5qEyK0RhID6boBza906Fnm5EckJrv4LeZVmZvEBPROSXkirTirI/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3222500/met/1785870533,/mh/9v/mm/44/mn/sn-2on4v5-5j/ms/lva/mv/m/mvi/5/pl/44/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1785870278/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgFQLUn6ip-dWYhUxxtLblZgqY_5DUgu3cS0BQoBhGHYUCIGFEAPqDZ0SH3AXHVD8JGOzJQyR232t_Sxt8XQj2iWeK/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgXEdS-_DIF-8kx1aiNR_RqknzmXQldtyreYSxi4JP55YCICWDePZ-ojy8oECCwj8Ly-K7_yrfZO7UUOaDfDmS2PoL/playlist/index.m3u8
