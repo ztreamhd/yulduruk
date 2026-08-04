@@ -327,12 +327,11 @@ class YouTubePlaylistGenerator:
                     with open(filename, 'w', encoding='utf-8') as f:
                         f.write(f"""#EXTM3U
 """)
-                        f.write(f'#EXTINF:-1 tvg-id="{channel_id}"{logo_attr} tvg-name="{channel_name}" group-title="Individual",{channel_name} [{quality_tag}] 🔴 LIVE\n')
+                        f.write(f'#EXTINF:-1 tvg-id="{channel_id}"{logo_attr} tvg-name="{channel_name}" group-title="Individual",{channel_name} [{quality_tag}] LIVE\n')
                         f.write(f'#EXTVLCOPT:http-origin=https://www.youtube.com\n')
                         f.write(f'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 OPR/133.0.0.0\n')
                         f.write(f'#EXTVLCOPT:http-reconnect=true\n')
                         f.write(main_stream['url'])
-                        f.write("\n")
                     
                     print(f"  ✅ LIVE ({country}): {filename}")
                     
