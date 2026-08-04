@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: Telewizja Republika
+# ID: UCc282c_TN8xIba_Z6GaDnQw
+# Quality: 1080p
+# Country: UK
+# Status: LIVE (as of 17:25 UTC)
+# Generated: 2026-08-04 17:25:00 UTC
+# URL expires: ~22:25 UTC (refresh playlist if expired)
+
+#EXTINF:-1 tvg-id="UCc282c_TN8xIba_Z6GaDnQw" tvg-logo="logos/UCc282c_TN8xIba_Z6GaDnQw.jpg" tvg-name="Telewizja Republika" group-title="Individual",Telewizja Republika [1080p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785885853/ei/PSByarySDfWosfIP_rzumAQ/ip/2a09:bac5:6193:183c::26a:b6/id/dzntyCTgJMQ.41/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-ib.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhNrcN-XsbRVHbAQyaassziHH8sgXxKCTSzDqrtdJLAJDhhjaJmgvHB20JZ4KNMR5jaVkPgmvwHF/spc/KBGBckhoBHzZ1YnPu0n0WGKojTOVX-9WLhIu2zkLJJ6O5jxbNZMPxixpDfOil9tm/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2287500/met/1785864253,/mh/Z5/mm/44/mn/sn-ib/ms/lva/mv/m/mvi/4/pl/35/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1785863810/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAIOpso0xYMo8XV_fE34a6kdX2vGb1EXuvn6JgoORv6vZAiBGsPXIzOYnEHMkzHz2K5nC7A53zmjvwI1xh7kOq_f_Xg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgO5oVW4TzN6WA_26WCKUl7JyYyGE6sjeWDvyN6flUCOYCIBPIKvHuMXDg2JhcziDBGM3BGcbSs8wAJVWyGcfC0z4z/playlist/index.m3u8

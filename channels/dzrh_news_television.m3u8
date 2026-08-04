@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: DZRH News Television
+# ID: UCcTiBX8js_djhSSlmJRI99A
+# Quality: 1080p
+# Country: UK
+# Status: LIVE (as of 17:25 UTC)
+# Generated: 2026-08-04 17:25:00 UTC
+# URL expires: ~22:25 UTC (refresh playlist if expired)
+
+#EXTINF:-1 tvg-id="UCcTiBX8js_djhSSlmJRI99A" tvg-logo="logos/UCcTiBX8js_djhSSlmJRI99A.jpg" tvg-name="DZRH News Television" group-title="Individual",DZRH News Television [1080p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785885778/ei/8h9yau2OCPOLsfIP0aPDoAg/ip/2a09:bac5:6193:183c::26a:b6/id/FxsfVX6B1Mk.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr3---sn-ii.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhOZalTsQ7Lfr2QSG8xGLsSwQ4Te13dPIK-FaJBU3m4cCkfflIJTogDSreDoEv8bxXMNKfGAB0Ei/spc/KBGBciJxt5pTXbmcPyTQdU410QpoomyPhv7MOY2jD6ZZLEE3km3wca6KcYEITKL9/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2287500/met/1785864178,/mh/cF/mm/44/mn/sn-ii/ms/lva/mv/m/mvi/3/pl/35/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1785863810/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgSTL8yE6haAM-wI_5uWQPJL9ipJ-MIULalqHYYzReS9ECICsodVzTih7nCiUXI6fGwDtB77fmrsg6nlDkkb-O4c9V/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgNzn_j4CgQeEMZbUigm5dPbFZZF5FgfzlEJ1PGeumKN4CIG0gFinerBA-vBifbwu4NUDy8ul5batgydvb4cvoSxJK/playlist/index.m3u8

@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: RTVE Noticias
+# ID: UC7QZIf0dta-XPXsp9Hv4dTw
+# Quality: 1080p
+# Country: UK
+# Status: LIVE (as of 17:25 UTC)
+# Generated: 2026-08-04 17:25:00 UTC
+# URL expires: ~22:25 UTC (refresh playlist if expired)
+
+#EXTINF:-1 tvg-id="UC7QZIf0dta-XPXsp9Hv4dTw" tvg-logo="logos/UC7QZIf0dta-XPXsp9Hv4dTw.jpg" tvg-name="RTVE Noticias" group-title="Individual",RTVE Noticias [1080p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785885839/ei/LyByaqSJGtuGt7EPxcTfgQw/ip/2a09:bac5:6193:183c::26a:b6/id/b4tE5aKhtlg.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr18---sn-qja5m5-5g.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhNbKZCO4G2Ma36K904pQ_1qrwhUuX0nKtMMTA-GEV3QI080R7GCGVUa47vbEcOfOcK0OGqyt3Jt/spc/KBGBcnDTlPNSiIvtmP9VqyllqJMkAO8g33fJWTmC9NE9M-gMWDPJ_aWFBsSO33bp/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2795000/met/1785864239,/mh/92/mm/44/mn/sn-qja5m5-5g/ms/lva/mv/m/mvi/18/pl/35/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1785863810/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgcnXyesisiQZg1GAuyIFQUzhirZ2sFa76Cw1HgtDwh9wCIFQOkT-bac2yFDcTpIhNcVc6QABC-Xy9oS-ASfvF5_FN/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgfByB8v0qrl0CPPiIuHGVeEtN5_QrsPAQUQk1ltTlEZkCIQDoJt1oQQdZOZmvHMH-ZBIO6IQna_sEqe53jLS7S1GYUQ%3D%3D/playlist/index.m3u8

@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: IB3
+# ID: UCff_CBVJDTHP4wOHPjP5BMg
+# Quality: 1080p
+# Country: UK
+# Status: LIVE (as of 17:25 UTC)
+# Generated: 2026-08-04 17:25:00 UTC
+# URL expires: ~22:25 UTC (refresh playlist if expired)
+
+#EXTINF:-1 tvg-id="UCff_CBVJDTHP4wOHPjP5BMg" tvg-logo="logos/UCff_CBVJDTHP4wOHPjP5BMg.jpg" tvg-name="IB3" group-title="Individual",IB3 [1080p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785885785/ei/-R9yatGBNJ2hsfIPitfioAI/ip/2a09:bac5:6193:183c::26a:b6/id/-yxtradv6Co.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr22---sn-ii.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhNTosLhLuSFrNLd9cJnGS4YWqz3ybvdGKnPAjGErLupozGcZjz2O4-Vf8T6PTOIYuMTlV0AMqlY/spc/KBGBcnJOaWkLAWuch-u-eromVqK7ndstUb63SRZ3eJqdFeK4tfLcYQlwD7zdgEO9/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2287500/met/1785864186,/mh/pS/mm/44/mn/sn-ii/ms/lva/mv/m/mvi/22/pl/35/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1785863810/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRgIhAMFA9zl2XXQm81ZT_rSLXI2UK_fZGQaU2AcDE4k69e6eAiEA7DoeIXqTTxmCplVsffqUghQhrKkVuJFtKKtP5-dz3vE%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAOz99_Ww4X9Wwf5TBbhxpUis9bki4yOk6bkndh8xkaGEAiBKFRaKg78SK-E-eX1XQGTijAv4Q83w-aQn5gG1hPxjmQ%3D%3D/playlist/index.m3u8

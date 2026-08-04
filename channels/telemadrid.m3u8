@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: Telemadrid
+# ID: UCv2BcgqxHSrl2QQfIkjR5Eg
+# Quality: 1080p
+# Country: UK
+# Status: LIVE (as of 17:25 UTC)
+# Generated: 2026-08-04 17:25:00 UTC
+# URL expires: ~22:25 UTC (refresh playlist if expired)
+
+#EXTINF:-1 tvg-id="UCv2BcgqxHSrl2QQfIkjR5Eg" tvg-logo="logos/UCv2BcgqxHSrl2QQfIkjR5Eg.jpg" tvg-name="Telemadrid" group-title="Individual",Telemadrid [1080p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785885826/ei/IiByavb3GL2-sfIPlsfAoAI/ip/2a09:bac5:6193:183c::26a:b6/id/39tFLvriPTs.2/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr4---sn-ib.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhNMP3Yg6jHT4SRqFLVWzO-_sJ34azAZ4IP48PiKtbMjs85Sn2bXQgDbtb9LvR7Z9SiP1cF8B2Kd/spc/KBGBciIKS_WdYjZUi8AO4WYYcpLXPYCQGvmOxSpEYbIoQWOghuMgatGOD7epci1n/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2695000/met/1785864226,/mh/lL/mm/44/mn/sn-ib/ms/lva/mv/m/mvi/4/pl/35/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1785863810/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgONurUTPZtpoHwXqmCrSPFUM7F8Rsdo-_SDID1cwgEwQCIFWkvyZBnbZTf0BGLTtCPwCM0rfi3qFxPHeiuT5jnaU3/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgYliICWWxEpDOit1U08isYDOYrplDAVWvd70zItEk5lsCIC64Ev0YqmSrHouO9-TGUmmb6NY69k8wevfQC4tgqjoC/playlist/index.m3u8

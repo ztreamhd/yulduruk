@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: canalsur
+# ID: UChtLgH7ZJLqLGWJpBnzy9Lg
+# Quality: 1080p
+# Country: UK
+# Status: LIVE (as of 17:25 UTC)
+# Generated: 2026-08-04 17:25:00 UTC
+# URL expires: ~22:25 UTC (refresh playlist if expired)
+
+#EXTINF:-1 tvg-id="UChtLgH7ZJLqLGWJpBnzy9Lg" tvg-logo="logos/UChtLgH7ZJLqLGWJpBnzy9Lg.jpg" tvg-name="canalsur" group-title="Individual",canalsur [1080p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785885899/ei/ayByatD9HYX4sfIPkY2dkQY/ip/2a09:bac5:6193:183c::26a:b6/id/e_oYf-DMTQ4.16/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr17---sn-qja5m5-5g.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhN2EvZB9eQSU45V6h3jaIj9HvmFHUPpElgmnaSRs2Q5aC-GrywGkV5ecJ2sdBhlX9F_jWI9xaQh/spc/KBGBcmLObib6ZKEDNVsq8cEx918dTYDaeqoezScrJBH8ziYpxd4iMWXKd46S5D6-/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2557500/met/1785864299,/mh/-D/mm/44/mn/sn-qja5m5-5g/ms/lva/mv/m/mvi/17/pl/35/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1785864046/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAPf-7-NlNuQ_IxTH3avToiIVemxu1j6uaeGmEpHyTAs5AiA7AbidDrNhoJQ-GhnhvF8wW90FrBDGjq5_7aiEuRJ5ZQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAKD3W_JVMgpTWlPgNonD1eOaTVk7IQZ_V4HP_H6vKuSuAiEAqgwycYtFSUAC5Un4nx7kvRna_BB9Pd5CrEVDdcBFjvc%3D/playlist/index.m3u8

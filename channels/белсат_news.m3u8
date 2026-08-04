@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: БЕЛСАТ NEWS
+# ID: UCRokSp8CGOuQO4R0F1RxRGg
+# Quality: 1080p
+# Country: UK
+# Status: LIVE (as of 17:25 UTC)
+# Generated: 2026-08-04 17:25:00 UTC
+# URL expires: ~22:25 UTC (refresh playlist if expired)
+
+#EXTINF:-1 tvg-id="UCRokSp8CGOuQO4R0F1RxRGg" tvg-logo="logos/UCRokSp8CGOuQO4R0F1RxRGg.jpg" tvg-name="БЕЛСАТ NEWS" group-title="Individual",БЕЛСАТ NEWS [1080p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785885751/ei/1h9yau2yO-ydsfIP7bnm6QU/ip/2a09:bac5:6193:183c::26a:b6/id/YA9ukP4k_Fk.24/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr10---sn-qja5m5-5g.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhObHiP-vH4aww3MTDj5_fvFZ-SM7Yi4o4IEyvQa5yfO-9fg14qBFVnnTZjDVlMZdWDIQdk94uXD/spc/KBGBctZOSrn2z8gpDjitAvg3STshRDZhvcoXBOZhRNdFDQIPVEdgG7WNbk0Hhvyk/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2795000/met/1785864151,/mh/gF/mm/44/mn/sn-qja5m5-5g/ms/lva/mv/m/mvi/10/pl/35/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1785863810/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgY6cJAyKp6REE7Xr2KwNejmsFtY6G92HCNtER2cGxdBYCIEHrydmgeG7DzZOykehMDhPJhy612U8ST6nAHIHhAIn-/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAKpC8bfkU3BL1DWQ1BKdMUPhs6dltRG93eRBIheGz76PAiB4dEY-wLx43fOPWrjZQ4KwQXGsql3pK_5lHQlar0y70g%3D%3D/playlist/index.m3u8

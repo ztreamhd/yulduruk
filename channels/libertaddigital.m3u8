@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: LibertadDigital
+# ID: UCUS73_bjTYwBFAfXbvIjM8Q
+# Quality: 1080p
+# Country: UK
+# Status: LIVE (as of 17:25 UTC)
+# Generated: 2026-08-04 17:25:00 UTC
+# URL expires: ~22:25 UTC (refresh playlist if expired)
+
+#EXTINF:-1 tvg-id="UCUS73_bjTYwBFAfXbvIjM8Q" tvg-logo="logos/UCUS73_bjTYwBFAfXbvIjM8Q.jpg" tvg-name="LibertadDigital" group-title="Individual",LibertadDigital [1080p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785885876/ei/VCByar3HEp-csfIPmviOuQI/ip/2a09:bac5:6193:183c::26a:b6/id/lnGAjJK8Vqw.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-qja5m5-5g.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhMWJ7ckJJrifEg1HcLPUZdJdJMLPiRIr6frivJ20oA0fRUrnQH0RaprMxscJjuze84JPaCvzfR4/spc/KBGBcnpvHkYkI1zmx2vMev7ID_LwGz1_91OBNne6fFEbQPAET7nwjStpQc49Ndy0/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2795000/met/1785864276,/mh/Et/mm/44/mn/sn-qja5m5-5g/ms/lva/mv/m/mvi/5/pl/35/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1785863810/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgSWptXRiQ00LZWZacBGHc5xIuvQNkykjXzYUPJtF4OUICIQCtCm1Kicb7HKMueIN703kTFP3_DHns9cXxCU7XF_t58g%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIge7yqtWNzb1VcOhT3Sup8SaEkD1KRf41M1Cu0VYX022ECIQDk6zgjEEGgspjmpLDiN1mkig2MYmZ8u41nsw7t42OtMA%3D%3D/playlist/index.m3u8

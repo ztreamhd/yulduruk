@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: TelevisionCanaria
+# ID: UCTQrUTmzCWIfG6h4EVCdOCQ
+# Quality: 1080p
+# Country: UK
+# Status: LIVE (as of 17:25 UTC)
+# Generated: 2026-08-04 17:25:00 UTC
+# URL expires: ~22:25 UTC (refresh playlist if expired)
+
+#EXTINF:-1 tvg-id="UCTQrUTmzCWIfG6h4EVCdOCQ" tvg-logo="logos/UCTQrUTmzCWIfG6h4EVCdOCQ.jpg" tvg-name="TelevisionCanaria" group-title="Individual",TelevisionCanaria [1080p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785885833/ei/KSByatjMDLeXsfIPh9-syQg/ip/2a09:bac5:6193:183c::26a:b6/id/DByMAYdYEmc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-qja5m5-5g.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhO9DrhIR9ynR-5iLBUtRfMt5hVxd40NUPn4i5UXpeQDAgVnekTfBlW8osvYzHupO_jvjbJrloSz/spc/KBGBcgNixeX4NF5Hoch1OpaqTRSedurZ9_YAXTLRpTisJUSiYK3yW5ll0sX0tXoJ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2795000/met/1785864233,/mh/IM/mm/44/mn/sn-qja5m5-5g/ms/lva/mv/m/mvi/5/pl/35/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/mt/1785863810/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAPceqOsYC2V2sLOIwBi_59nwF0dT5BPP8Wh8mE1a9EqXAiB118yXCzvfEHQyxmSlCecG5I_UqIjVNRdpFrFeTdZoww%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgc6xSkCEEhYUloOuWxNo2Ld4JZbIDWJwJN1wTWZQ8t2ACIQCYBj9XXC30id8yo5EToGO7JErVLaKnx_r62zkCyn51kg%3D%3D/playlist/index.m3u8

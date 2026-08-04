@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: Телеканал ICTV
+# ID: UCa85JIfBxZgcrsd8Ar7Z9nw
+# Quality: 1080p
+# Country: UK
+# Status: LIVE (as of 17:25 UTC)
+# Generated: 2026-08-04 17:25:00 UTC
+# URL expires: ~22:25 UTC (refresh playlist if expired)
+
+#EXTINF:-1 tvg-id="UCa85JIfBxZgcrsd8Ar7Z9nw" tvg-logo="logos/UCa85JIfBxZgcrsd8Ar7Z9nw.jpg" tvg-name="Телеканал ICTV" group-title="Individual",Телеканал ICTV [1080p] 🔴 LIVE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785885807/ei/DyByaq7uCe2esfIPqIHb2QE/ip/2a09:bac5:6193:183c::26a:b6/id/7KK_x1fZUEU.409/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-ip.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhOcbpMCJdn7VrRDo94nQO-eTLhscBXPsvBU4xNwB6uzVBLaiIX19y1fVs2HGtVJLvDK0IWBodO1/spc/KBGBchZv_OqssHTWUwfutB4pccnrm9jpkWevo2GEE-cNyqKPaV9JLS4IYBP4r1z4/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2522500/met/1785864207,/mh/9v/mm/44/mn/sn-ip/ms/lva/mv/m/mvi/7/pl/35/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1785864046/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgDuCVshRvil5tPAQe61fhle2piXjibzWx6lZJ0EHDPTICIQCEd63unB8jlpiZKqYjnmAgq3LXTEer-XYqk7ngBVblsQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgcaPKrle76-9sjFYzXT3X9tJQnCQ158JtACQKfJedF6kCIHcRDf7cSDGjH9s9J4E8WHaAb8ylEY477xKigZTp12al/playlist/index.m3u8
