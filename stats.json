@@ -74,11 +74,6 @@
       "quality": "1080p"
     },
     {
-      "name": "Telemadrid",
-      "file": "channels/telemadrid.m3u8",
-      "quality": "1080p"
-    },
-    {
       "name": "TelevisionCanaria",
       "file": "channels/televisioncanaria.m3u8",
       "quality": "1080p"
@@ -96,6 +91,11 @@
     {
       "name": "Telewizja Republika",
       "file": "channels/telewizja_republika.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "Times Now",
+      "file": "channels/times_now.m3u8",
       "quality": "1080p"
     },
     {
