@@ -14,7 +14,8 @@
     "News": 1
   },
   "by_country": {
-    "UK": 21
+    "UK": 20,
+    "NG": 1
   },
   "individual_channels": [
     {
